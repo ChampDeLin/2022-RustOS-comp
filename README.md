@@ -14,5 +14,5 @@
 - Day 3（7月12号）
   - 开始复习rust（Rust语言圣经 -> 2.6.1 match 和 if let）
 - Day 4（7月13号）
-  - 开始复习rust（Rust语言圣经 -> 2.6.1 match 和 if let）
+  - 开始复习rust（Rust语言圣经 -> 2.8.2 特征 Trait）
   - 学习计算机组成与设计risc-v 1.2章
