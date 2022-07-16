@@ -20,3 +20,4 @@
   - 开始复习rust（Rust语言圣经 -> 第2章基础入门结束）
 - Day 6（7月15号）
   - 开始复习rust（Rust语言圣经 -> 3.2 闭包，迭代器）
+  - 开始复习rust（RISC-V-Reader-Chinese-v2p1 -> 第1章结束）
