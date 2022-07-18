@@ -21,3 +21,9 @@
 - Day 6（7月15号）
   - 开始复习rust（Rust语言圣经 -> 3.2 闭包，迭代器）
   - 开始复习rust（RISC-V-Reader-Chinese-v2p1 -> 第1章结束）
+- Day 7（7月16号）
+  - 开始复习rust（Rust语言圣经 -> 3.4 智能指针）
+- Day 8（7月17号）
+  - 开始复习rust（Rust语言圣经 -> 3.6 多线程并发编程）
+- Day 9（7月18号）
+  - 开始复习rust结束
