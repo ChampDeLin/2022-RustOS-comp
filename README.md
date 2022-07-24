@@ -33,3 +33,5 @@
   - 开始学习RISC-V（RISC-V-Reader-Chinese-v2p1 -> 3 RISC-V 汇编语言）
 - Day 12（7月21号）
   - 开始学习RISC-V 结束
+- Day 13（7月22号）
+  - 2022春季OS课第一节课
